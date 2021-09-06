@@ -1,2 +1,3 @@
 # my-second-repo
-initialize this repository with a README
+This is my awesome repo
+
